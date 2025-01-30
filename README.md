@@ -23,16 +23,19 @@ Scatter Plot for Capomulin: You also generated a scatter plot showing the relati
 6. Correlation and Regression
 Correlation Coefficient: You calculated the Pearson correlation coefficient between mouse weight and average tumor volume for the Capomulin treatment group. This helped quantify the strength of the relationship between these variables.
 Linear Regression: You performed linear regression analysis on the same data, generating a regression line and plotting it over the scatter plot to visually represent the relationship between weight and tumor volume. This model allowed for predictions and deeper insights into the data.
+
 Tools and Techniques Used
 Pandas: For data manipulation, merging datasets, and summary statistics generation.
 Matplotlib (pyplot): For creating bar charts, pie charts, box plots, line plots, and scatter plots.
 NumPy: For statistical calculations like variance, standard deviation, and quartiles.
 SciPy: For performing correlation and regression analysis.
 Jupyter Notebook: For running the analysis, generating visualizations, and compiling the final report.
+
 Results and Insights
 Efficacy of Capomulin: The data analysis provided a clear picture of how Capomulin performed relative to other treatments, with Capomulin showing promising results, particularly in terms of tumor volume reduction.
 Outlier Identification: Several outliers were identified in the tumor volume data, especially for treatments like Infubinol and Ramicane, which could point to anomalies or inefficacies in the respective treatments.
 Statistical Analysis: The correlation between mouse weight and tumor volume for Capomulin was explored, and the linear regression model provided further insight into this relationship, which may inform future studies and treatment strategies.
+
 Conclusion
 Through this comprehensive analysis, you provided the executive team with a clear, detailed breakdown of the study’s results. The visualizations helped communicate the key findings effectively, and the statistical analyses supported evidence-based decision-making for the future development of Pymaceuticals' anti-cancer treatments.
 
